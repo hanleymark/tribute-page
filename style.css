@@ -45,3 +45,19 @@ h2 {
 main {
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
 }
+
+.album {
+    border: black solid;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    padding: 3px;
+}
+
+.card
+{
+    display:flex;
+    flex-direction: row;
+    columns: 3;
+    justify-content: flex-start;
+}
