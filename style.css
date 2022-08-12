@@ -71,7 +71,7 @@ main, footer {
     flex-wrap: wrap;
     color: black;
     justify-content: space-around;
-    align-items: center;
+    align-items:flex-start;
 
 }
 
